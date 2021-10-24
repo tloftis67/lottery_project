@@ -1,0 +1,5 @@
+first_name=input("Please type your first name"()
+diameter =2 * radus*()
+year=2021()
+birth=51()
+print('Hello Phil, I see you are 51 years old')
